@@ -1,0 +1,3 @@
+/Users/deepanshudhankhar/Desktop/sample project/cpp-api-project/build/CMakeFiles/CPPApiSqlite.dir
+/Users/deepanshudhankhar/Desktop/sample project/cpp-api-project/build/CMakeFiles/edit_cache.dir
+/Users/deepanshudhankhar/Desktop/sample project/cpp-api-project/build/CMakeFiles/rebuild_cache.dir
