@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ApiSqlite.dir/src/main.cpp.o CMakeFiles/ApiSqlite.dir/src/app.cpp.o CMakeFiles/ApiSqlite.dir/src/database.cpp.o CMakeFiles/ApiSqlite.dir/src/api_client.cpp.o -o ApiSqlite  -lcurl -lsqlite3
